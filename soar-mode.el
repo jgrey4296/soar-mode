@@ -79,7 +79,7 @@
 
 ;;-- end syntax
 
-(define-derived-mode soar-mode fundamental-mode
+(define-derived-mode soar-mode prog-mode
   "soar"
   "Major mode for use of soar"
   (interactive)
