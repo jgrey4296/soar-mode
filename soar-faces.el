@@ -1,6 +1,6 @@
 ;;; soar-faces.el --- Description -*- lexical-binding: t; -*-
 (defface soar-face-0
-  '((t :foreground "#292831"))
+  '((t :foreground "#Ffe4e1"))
   "Generated 0 Face"
 )
 

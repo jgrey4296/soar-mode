@@ -1,10 +1,9 @@
-;; blood--test.el -*- mode: emacs-lisp; lexical-binding: t; -*-
+;; basic-tests.el -*- mode: emacs-lisp; lexical-binding: t; -*-
 ;;
 ;;
 ;;
 (require 'buttercup)
-(require 'flycheck)
-(require 'flycheck-toml)
+(require 'soar-mode)
 
 ;; binding ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 

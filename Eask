@@ -1,10 +1,12 @@
 ;; -*- mode: eask; lexical-binding: t -*-
 
-(package "flycheck-toml"
-         "0.1.0"
-         "A toml checker")
+(defconst version "0.1.0")
 
-(website-url "https://github.com/jgrey4296/flycheck-toml")
+(package "soar-mode"
+         version
+         "A Major Mode for Soar Agent files")
+
+(website-url "https://github.com/jgrey4296/soar-mode")
 (keywords )
 
 (package-file "soar-mode.el")
