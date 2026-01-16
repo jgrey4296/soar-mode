@@ -9,10 +9,8 @@
 (website-url "https://github.com/jgrey4296/soar-mode")
 (keywords )
 
-(package-file "soar-mode.el")
-(files "soar-*.el")
-
-(script "test" "echo \"Error: no test specified\" && exit 1")
+(package-descriptor "soar-mode-pkg.el")
+(files "./soar-*.el" "./ob-soar.el")
 
 (source "gnu")
 (source "melpa")
